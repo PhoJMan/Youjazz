@@ -1,0 +1,5 @@
+player = {
+    [OMGAHDOGNONGAMONGUSGGONGJSWINDLER] = true,
+}
+
+return player
